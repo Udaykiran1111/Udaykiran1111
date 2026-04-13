@@ -14,7 +14,7 @@
 ---
 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,js,react,nodejs,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css" /><br/>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter,git,github,vscode" /><br/>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,linux,docker,figma,postman" />
 </p>
@@ -56,11 +56,7 @@ Project	Description	Stack
 🧬 Microsoft Fabric Data Days – Participant
 🏅 Kaggle Code Forker Badge
 📡 GSoC 2025 Proposal – ML4SCI (Quantum ML)
----
-🐍 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+
 ---
 🌐 Connect With Me
 <p align="center">
