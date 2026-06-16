@@ -69,9 +69,7 @@ Project	Description	Stack
   <a href="https://www.kaggle.com/">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="https://t.me/ResXAI_bot">
-    <img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+
 </p>
 ---
 <div align="center">
